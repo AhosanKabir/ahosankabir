@@ -1,13 +1,17 @@
-<h2> Hey there! I'm Ahosan Kabir. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1 style="background-image: -o-linear-gradient(45deg, #ffe300, #ff5f68, #ff49d1, #ffd008);background-image: linear-gradient(45deg, #ffe300, #ff5f68, #ff49d1, #ffd008); background-clip: text; -webkit-background-clip: text; color: transparent; text-align: center; font-size: 36px;">
+  Hi there, I'm Ahosan Kabir 👋
+</h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
+<p>Front End Web Developer with a huge love for JavaScript, React.js, Tailwind CSS, API Dev, and System Architecture. <strong> Currently open to new projects.</strong> </p>
 - 👨‍💻 &nbsp; I’m currently working on web development technologies like JavaScript, React, Tailwind CSS, SASS, Bootstrap, CSS, and conversion <br/>
 - 🔭 &nbsp; I’m currently learning  Backend technologies <br/> 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. <br/>
 - 💼 &nbsp; front-end web developer. <br/>
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence. <br/>
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress.  <br/>
-- 💪🏼 &nbsp; Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 &nbsp; Future Goals: Learn more technologies - Never stop creating new ideas.  <br/>
+- 🥳 &nbsp; Fun fact: I love to cook, I love to travel.  <br/>
 
 ### Languages and Tools 🛠 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -30,6 +34,12 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001F3F?style=flat-square)
+
+## Connect with Me 👩🏻‍💼
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahosan-kabir-48a893213/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahosan.kabir.73)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahosan.kabir.73/)
+[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/vAKNJHvQVmxe)
 
 
 
