@@ -3,7 +3,7 @@
 </h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
-<p>Front End Web Developer with a huge love for JavaScript, React.js, Tailwind CSS, API Dev, and System Architecture. <strong> Currently open to new projects.</strong> </p>
+<p>Software Developer with a huge love for JavaScript, React.js, Tailwind CSS, API Dev, and System Architecture. <strong> Currently open to new projects.</strong> </p>
 - 👨‍💻 &nbsp; I’m currently working on web development technologies like JavaScript, React, Tailwind CSS, SASS, Bootstrap, CSS, Python, Odoo development and conversion <br/>
 - 🔭 &nbsp; I’m currently learning  Backend technologies <br/> 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. <br/>
