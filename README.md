@@ -12,7 +12,7 @@
 - 💪🏼 &nbsp; Future Goals: Learn more technologies - Never stop creating new ideas.  <br/>
 - 🥳 &nbsp; Fun fact: I love to cook, I love to travel.  <br/>
 
-
+<p> ☎️ contact: 01747024208 </p> 
 
 ## Connect with Me 👩🏻‍💼
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahosan-kabir-48a893213/)
