@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 <p>Software Developer with a huge love for Python, JavaScript, MySQL, PostgreSQL, Next JS, React.js, Tailwind CSS, API Dev, and System Architecture. <strong> Currently open to new projects.</strong> </p>
 - 👨‍💻 &nbsp; I’m currently working on web development technologies like JavaScript, React, Tailwind CSS, SASS, Bootstrap, CSS, Python, Odoo development and conversion <br/>
-- 🔭 &nbsp; I’m currently learning  Backend technologies <br/> 
+<!-- - 🔭 &nbsp; I’m currently learning AI<br/>  -->
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. <br/>
 - 💼 &nbsp; front-end web developer. <br/>
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress.  <br/>
