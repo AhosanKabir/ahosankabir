@@ -7,7 +7,7 @@
 - 👨‍💻 &nbsp; I’m currently working on web development technologies like JavaScript, React, Tailwind CSS, SASS, Bootstrap, CSS, Python, Odoo development and conversion <br/>
 <!-- - 🔭 &nbsp; I’m currently learning AI<br/>  -->
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. <br/>
-- 💼 &nbsp; front-end web developer. <br/>
+- 💼 &nbsp; strong emphasis on Front-End development. <br/>
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress.  <br/>
 - 💪🏼 &nbsp; Future Goals: Learn more technologies - Never stop creating new ideas.  <br/>
 - 🥳 &nbsp; Fun fact: I love to cook, I love to travel.  <br/>
