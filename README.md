@@ -14,6 +14,7 @@
 <br/>
 <br/>
 <p> ☎️ contact:+88 01747024208 </p> 
+<p> 💬 email:kaziahosan1998@gmail.com</p> 
 
 ## Connect with Me 👩🏻‍💼
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahosan-kabir-48a893213/)
